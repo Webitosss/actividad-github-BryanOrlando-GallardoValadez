@@ -1,0 +1,4 @@
+Bryan Orlando Gallardo Valadez
+03/02/2026
+Administracion de proyectos de software
+Un Pull Request (PR) es una solicitud para integrar cambios de código de una rama de desarrollo a otra (generalmente la rama principal main o master) en un repositorio de control de versiones como Git, siendo fundamental para la colaboración en equipo al permitir la revisión y discusión del código antes de fusionarlo, asegurando la calidad y detectando errores tempranamente. 
